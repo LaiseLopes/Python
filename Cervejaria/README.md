@@ -1,9 +1,9 @@
-<h1 align="center">Análise de dados</h1>
+<h1 align = "center"> Data analysis </h1>
 
-Projeto desenvolvido utilizando o Google Colab na aula de Analytics Tools, do MBA de Business Intelligence na FIAP
+Project developed using Google Colab in the Analytics Tools class, from the Business Intelligence MBA at FIAP
 
-Para análise, foi utilizado o arquivo em Excel: cervejaria1.xlsx anexo neste repositório
+For analysis, the Excel file: cervejaria1.xlsx attached in this repository was used
 
-<h4 align="center"> 
-	🚧  React Select 🚀 Sempre em construção e adaptações...  🚧
+<h4 align = "center">
+🚧 React Select 🚀 Always under construction and adaptations ... 🚧
 </h4>
