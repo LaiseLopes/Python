@@ -1,8 +1,8 @@
-<h1 align="center">Análise de dados</h1>
+<h1 align="center">Data Analysis</h1>
 
-Projeto desenvolvido utilizando o Google Colab na aula de Analytics Tools, do MBA de Business Intelligence na FIAP
+Project developed using Google Colab in the Analytics Tools class, from the Business Intelligence MBA at FIAP
 
-Para análise, foram utilizados os arquivos em Excel:
+For analysis, Excel files were used:
 
     •	Apend.xlsx
     •	Apend_1.xlsx
@@ -10,8 +10,8 @@ Para análise, foram utilizados os arquivos em Excel:
     •	Apend_A.xlsx
     •	Apend_B.xlsx
 
-Todos os anexos se encontram neste diretório
+All attachments are in this choice
 
 <h4 align="center"> 
-	🚧  React Select 🚀 Sempre em construção e adaptações...  🚧
+	🚧  React Select 🚀 Always under construction and adaptations...  🚧
 </h4>
