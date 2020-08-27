@@ -2,7 +2,7 @@
 
 Projeto desenvolvido utilizando o Google Colab na aula de Analytics Tools, do MBA de Business Intelligence na FIAP
 
-Para análise, foram utilizados os arquivos em Execel:
+Para análise, foram utilizados os arquivos em Excel:
 
     •	Apend.xlsx
     •	Apend_1.xlsx
