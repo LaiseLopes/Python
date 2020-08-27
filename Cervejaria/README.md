@@ -1,4 +1,4 @@
-<h1 align = "center"> Data analysis </h1>
+<h1 align = "center"> Analysis of data from a brewery </h1>
 
 Project developed using Google Colab in the Analytics Tools class, from the Business Intelligence MBA at FIAP
 
