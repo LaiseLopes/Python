@@ -1,9 +1,9 @@
-<h1 align="center">Análise da base de dados de um banco</h1>
+<h1 align = "center"> Analysis of a bank's database </h1>
 
-Projeto desenvolvido utilizando o Google Colab na aula de Analytics Tools, do MBA de Business Intelligence na FIAP
+Project developed using Google Colab in the Analytics Tools class, from the Business Intelligence MBA at FIAP
 
-Para análise, foi utilizado o arquivo em Excel: Banco_R.xlsx anexo nesta pasta.
+For analysis, the Excel file: Banco_R.xlsx attached in this folder was used.
 
-<h4 align="center"> 
-	🚧  React Select 🚀 Sempre em construção e adaptações...  🚧
+<h4 align = "center">
+🚧 React Select 🚀 Always under construction and adaptations ... 🚧
 </h4>
